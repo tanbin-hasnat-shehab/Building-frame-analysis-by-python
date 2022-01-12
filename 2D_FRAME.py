@@ -7,9 +7,6 @@ import matplotlib.pyplot as plt
 import sympy as sy
 from sympy import*
 from tkinter import *
-import os
-import numpy as np
-import math
 from openpyxl.workbook import *
 from openpyxl import load_workbook
 from openpyxl import Workbook
